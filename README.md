@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/36993613/121573489-9fe33380-ca25-11eb-8bf6-89527cb7e34f.png)
 
-<h1 align="center">Hi 👋, I'm Myron</h1>
-<h3 align="center">Apparently this coding thing is suppose to lead to money?</h3>
+<h1>Hi, I'm Myron</h1>
+<h3>Apparently this coding thing is suppose to lead to money?</h3>
 
 - 📫 How to reach me **myronouyang@gmail.com**
 
