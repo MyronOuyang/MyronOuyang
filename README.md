@@ -5,7 +5,7 @@
 
 - 💡 I'm always interested in newly released technologies
 - 🌱 I'm currently learning web development and server management
-- 📫 How to reach me **myronouyang@gmail.com**
+<!-- - 📫 How to reach me **myronouyang@gmail.com** -->
 <!-- - 📄 My CV [Résumé](https://www.adityavsingh.com/resume.html) -->
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
@@ -40,7 +40,7 @@
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=myronouyang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=myronouyang&layout=compact&langs_count=8&theme=algolia"/>
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myronouyang&theme=algolia" alt="myronouyang" /> -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myronouyang&theme=algolia" alt="myronouyang" />
 </a>
 </p>
 
